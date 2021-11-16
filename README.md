@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ulman-kanchan 
-- 👀 I’m interested in codes for Atomistic Modelling
+- 👀 I’m interested in codes for Atomistic Materials Modelling
 
 <!---
 ulman-kanchan/ulman-kanchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
